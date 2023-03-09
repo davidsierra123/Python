@@ -1,5 +1,5 @@
-palabra = input("EScriba su palabra")
+palabra = input("Escriba su palabra: ")
 if str(palabra) == str(palabra) [:: -1]:
-    print("Su palabra es Palidromo")
+    print("Su palabra es Palindromo")
 else:
-    print("Su palabra NO es Palidromo")
+    print("Su palabra NO es Palindromo") 
