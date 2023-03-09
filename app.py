@@ -193,6 +193,6 @@ print(a.replace("H", "J"))
 # Te mostrara el txt y ademas debes castear para que te muestre tu edad osea: str(age-edad)
 '''
 age = 18
-txt = "My nombre es David " + str (age)
+txt = "My nombre es David " + str(age)
 print (txt)
 '''
